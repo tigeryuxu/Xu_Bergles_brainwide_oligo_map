@@ -1,0 +1,7 @@
+
+*.pyc
+*.nrrd
+*.h5
+*.tif
+*.png
+*.pth
