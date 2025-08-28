@@ -1,0 +1,7 @@
+For Track-CNN:
+	(10) Checkpoints_full_auto_no_spatialW_large_TRACKER_CROP_PADS_NO_NEXT_only_check
+	
+
+For Seg-CNN
+	(21) Checkpoints_PYTORCH_NO_transforms_AdamW_batch_norm_CLEAN_DATA_LARGE_NETWORK
+	
